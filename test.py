@@ -7,7 +7,7 @@ my_bool = True    # bool (True = 1 / False = 0)
 if my_bool == True:
   print("my_bool is True")
 
-
+# MY NEW CHANGE
 # sdfsaoifhasfsfj 
 # this is a helpful note for anyone reading this code
 if x > 0:
